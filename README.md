@@ -24,5 +24,4 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <h2>💰 Financial Services Sector</h2>
 <li><a href="">Loan Processing Intelligence Agent</a></li>
 <li><a href="">KYC Verification Intelligence Agent</a></li>
-https://codepen.io/Parvathi-Muthuswamy/pen/mybrLRa
 
