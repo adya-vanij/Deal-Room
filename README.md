@@ -17,9 +17,9 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <h2>🧑‍💼 Recruitment Sector</h2>
 <li><a href="https://github.com/adya-vanij/Intelligent-Candidate-Identification-Agent">Intelligent Candidate Identification Agent</a></li>
 <h2>🏥 Healthcare Sector</h2>
-<li><a href="">AI-Powered Medical Transcription System</a></li>
+<li><a href="https://github.com/adya-vanij/AI-Powered-Medical-Transcription-System">AI-Powered Medical Transcription System</a></li>
 <h2>👗 Retail Sector</h2>
-<li><a href="">Conversational AI Assistant for Retail</a></li>
+<li><a href="https://github.com/adya-vanij/Conversational-AI-Assistant-for-Retail-Dashboard-Interaction">Conversational AI Assistant for Retail</a></li>
 <li><a href="">Order Status Querying Agent</a></li>
 <h2>💰 Financial Services Sector</h2>
 <li><a href="">Loan Processing Intelligence Agent</a></li>
