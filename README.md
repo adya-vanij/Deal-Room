@@ -15,7 +15,7 @@ Vanij AI Manufactory consists of 4 components:
 A curated collection of Vanij use cases built with Vanij components. This repository showcases applications developed using Vanij Studio, enabling you to explore and experiment with them to assess their suitability for your specific use case.  
 <h1>📂 Featured AI Use cases</h1>
 <h2>🧑‍💼 Recruitment Sector</h2>
-<li><a href="">Intelligent Candidate Identification Agent</a></li>
+<li><a href="https://github.com/adya-vanij/Intelligent-Candidate-Identification-Agent">Intelligent Candidate Identification Agent</a></li>
 <h2>🏥 Healthcare Sector</h2>
 <li><a href="">AI-Powered Medical Transcription System</a></li>
 <h2>👗 Retail Sector</h2>
