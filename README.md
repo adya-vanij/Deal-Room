@@ -24,7 +24,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <h2>💰 Financial Services Sector</h2>
 <li><a href="">Loan Processing Intelligence Agent</a></li>
 <li><a href="">KYC Verification Intelligence Agent</a></li>
-<h2>Our Agents</h2>
+<h1>Our Agents</h1>
 To try our agents please visit: https://adya.ai/vanij/our-agents
 
 
