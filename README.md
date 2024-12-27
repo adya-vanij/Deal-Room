@@ -25,3 +25,6 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="">Loan Processing Intelligence Agent</a></li>
 <li><a href="">KYC Verification Intelligence Agent</a></li>
 
+http://htmlpreview.github.io/?https://github.com/adya-vanij/roi-calculator-html.html
+
+
