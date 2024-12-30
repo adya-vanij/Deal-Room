@@ -20,6 +20,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/AI-Powered-Medical-Transcription-System">AI-Powered Medical Transcription System</a></li>
 <h2>👗 Retail Sector</h2>
 <li><a href="https://github.com/adya-vanij/Conversational-AI-Assistant-for-Retail-Dashboard-Interaction">Conversational AI Assistant for Retail</a></li>
+<li><a href="https://github.com/adya-vanij/Order-Status-Querying-Agent/tree/main">Order Status Querying Agent</a></li>
 <h2>💰 Financial Services Sector</h2>
 <li><a href="https://github.com/adya-vanij/Loan-Processing-Intelligence-Agent">Loan Processing Intelligence Agent</a></li>
 <h1>🌞 Our Agents</h1>
