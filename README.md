@@ -26,7 +26,8 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/KYC-Verification-Intelligence-Agent/tree/main">KYC Verification Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Insurance-Claims-Intelligence-Agent/tree/main">Insurance Claims Intelligence Agent</a></li>
 <h2>📚 Education Sector</h2>
-<li><a href="">Enrollment Processing Intelligence Agent</a></li>
+<li><a href="https://github.com/adya-vanij/Enrollment-Processing-Intelligence-Agent/tree/main">Enrollment Processing Intelligence Agent</a></li>
+<li><a href="">Course Documentation Intelligence Agent</a></li>
 <h1>🌞 Our Agents</h1>
 Discover the future of AI—please explore <a href="https://adya.ai/vanij/our-agents">our agents</a> today!
 <h1>🌹Demo</h1>
