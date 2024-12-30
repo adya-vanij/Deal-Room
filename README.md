@@ -23,6 +23,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/Order-Status-Querying-Agent/tree/main">Order Status Querying Agent</a></li>
 <h2>💰 Financial Services Sector</h2>
 <li><a href="https://github.com/adya-vanij/Loan-Processing-Intelligence-Agent">Loan Processing Intelligence Agent</a></li>
+<li><a href="https://github.com/adya-vanij/KYC-Verification-Intelligence-Agent/tree/main">KYC Verification Intelligence Agent</a></li>
 <h1>🌞 Our Agents</h1>
 Discover the future of AI—please explore <a href="https://adya.ai/vanij/our-agents">our agents</a> today!
 <h1>🌹Demo</h1>
