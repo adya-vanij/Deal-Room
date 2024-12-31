@@ -31,6 +31,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <h2>🏗️Construction Sector</h2>
 <li><a href="https://github.com/adya-vanij/Document-Verification-Invoice-Processing-Agent/tree/main">Document Verification & Invoice Processing Agent</a></li>
 <h2>🏭 Manufacturing</h2>
+<li><a href="https://github.com/adya-vanij/Quality-Control-Defect-Detection-Agent">Quality Control & Defect Detection Agent</a></li>
 <h1>🌞 Our Agents</h1>
 Discover the future of AI—please explore <a href="https://adya.ai/vanij/our-agents">our agents</a> today!
 <h1>🌹Demo</h1>
