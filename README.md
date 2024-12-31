@@ -27,7 +27,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/Loan-Processing-Intelligence-Agent">Loan Processing Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/KYC-Verification-Intelligence-Agent/tree/main">KYC Verification Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Insurance-Claims-Intelligence-Agent/tree/main">Insurance Claims Intelligence Agent</a></li>
-<li><a href="">Real-time Fraud Detection Agent</a></li>
+<li><a href="https://github.com/adya-vanij/Real-time-Fraud-Detection-Agent/tree/main">Real-time Fraud Detection Agent</a></li>
 <h2>📚 Education Sector</h2>
 <li><a href="https://github.com/adya-vanij/Enrollment-Processing-Intelligence-Agent/tree/main">Enrollment Processing Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Course-Documentation-Intelligence-Agent/tree/main">Course Documentation Intelligence Agent</a></li>
