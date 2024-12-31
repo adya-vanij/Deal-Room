@@ -21,6 +21,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <h2>👗 Retail Sector</h2>
 <li><a href="https://github.com/adya-vanij/Conversational-AI-Assistant-for-Retail-Dashboard-Interaction">Conversational AI Assistant for Retail</a></li>
 <li><a href="https://github.com/adya-vanij/Order-Status-Querying-Agent/tree/main">Order Status Querying Agent</a></li>
+<li><a href="">Customer Behavior Analysis Agent</a></li>
 <h2>💰 Financial Services Sector</h2>
 <li><a href="https://github.com/adya-vanij/Loan-Processing-Intelligence-Agent">Loan Processing Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/KYC-Verification-Intelligence-Agent/tree/main">KYC Verification Intelligence Agent</a></li>
@@ -28,7 +29,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <h2>📚 Education Sector</h2>
 <li><a href="https://github.com/adya-vanij/Enrollment-Processing-Intelligence-Agent/tree/main">Enrollment Processing Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Course-Documentation-Intelligence-Agent/tree/main">Course Documentation Intelligence Agent</a></li>
-<li><a href="">Student Performance Tracking Agent</a></li>
+<li><a href="https://github.com/adya-vanij/Student-Performance-Tracking-Agent/tree/main">Student Performance Tracking Agent</a></li>
 <h2>🏗️Construction Sector</h2>
 <li><a href="https://github.com/adya-vanij/Document-Verification-Invoice-Processing-Agent/tree/main">Document Verification & Invoice Processing Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Progress-Tracking-Quality-Compliance-Agent/tree/main">Progress Tracking & Quality Compliance Agent</a></li>
