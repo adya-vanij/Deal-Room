@@ -37,7 +37,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/Progress-Tracking-Quality-Compliance-Agent/tree/main">Progress Tracking & Quality Compliance Agent</a></li>
 <h2>🏭 Manufacturing</h2>
 <li><a href="https://github.com/adya-vanij/Quality-Control-Defect-Detection-Agent">Quality Control & Defect Detection Agent</a></li>
-<li><a href="">Production Scheduling Agent</a></li>
+<li><a href="https://github.com/adya-vanij/Production-Scheduling-Agent/tree/main">Production Scheduling Agent</a></li>
 <h1>🌞 Our Agents</h1>
 Discover the future of AI—please explore <a href="https://adya.ai/vanij/our-agents">our agents</a> today!
 <h1>🌹Demo</h1>
