@@ -33,6 +33,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/Course-Documentation-Intelligence-Agent/tree/main">Course Documentation Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Student-Performance-Tracking-Agent/tree/main">Student Performance Tracking Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Course-Management-Scheduling-Agent/tree/main">Course Management & Scheduling Agent</a></li>
+<li><a href="https://github.com/adya-vanij/Interactive-Video-Based-Training-Agent/tree/main">Interactive Video-Based Training Agent</a></li>
 <h2>🏗️Construction Sector</h2>
 <li><a href="https://github.com/adya-vanij/Document-Verification-Invoice-Processing-Agent/tree/main">Document Verification & Invoice Processing Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Progress-Tracking-Quality-Compliance-Agent/tree/main">Progress Tracking & Quality Compliance Agent</a></li>
