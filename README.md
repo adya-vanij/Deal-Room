@@ -24,6 +24,7 @@ A curated collection of Vanij use cases built with Vanij components. This reposi
 <li><a href="https://github.com/adya-vanij/Order-Status-Querying-Agent/tree/main">Order Status Querying Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Customer-Behavior-Analysis-Agent/tree/main">Customer Behavior Analysis Agent</a></li>
 <li><a href="https://github.com/adya-vanij/Product-Recommendation-Agent/tree/main">Product Recommendation Agent</a></li>
+<li><a href="https://github.com/adya-vanij/PDF-to-Catalog-/tree/main">PDF to Catalog Agent</a></li>
 <h2>💰 Financial Services Sector</h2>
 <li><a href="https://github.com/adya-vanij/Loan-Processing-Intelligence-Agent">Loan Processing Intelligence Agent</a></li>
 <li><a href="https://github.com/adya-vanij/KYC-Verification-Intelligence-Agent/tree/main">KYC Verification Intelligence Agent</a></li>
